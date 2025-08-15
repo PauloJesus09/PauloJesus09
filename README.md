@@ -4,8 +4,8 @@
 
 ## ✨ Sobre mim
 - 💻 Estudante de ADS na **Sptech School**  
-- 🎵 Fã de **MPB** — de Chico Buarque a Djavan  
-- 🖤🤍 Corinthiano roxo — "Vai, Corinthians!"  
+- 🎵 Fã de **MPB**  de Chico Buarque a Djavan  
+- 🖤🤍 Corinthiano roxo  "Vai, Corinthians!"  
 - 🚀 Sempre buscando aprender mais e compartilhar conhecimento  
 
 ---
