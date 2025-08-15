@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🎶⚽ Olá, eu sou o Paulo Jesus! ⚽🎶  
 
-<!--
-**PauloJesus09/PauloJesus09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ Sobre mim
+- 💻 Desenvolvedor apaixonado por **tecnologia e inovação**  
+- 🎵 Fã de **MPB** — de Chico Buarque a Djavan  
+- 🖤🤍 Corinthiano roxo — "Vai, Corinthians!"  
+- 🚀 Sempre buscando aprender mais e compartilhar conhecimento  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades
+- **Linguagens:** JavaScript  
+- **Banco de Dados:** MySQL, MySQL Workbech  
+- **Ferramentas:** Git, VS Code  
+
+---
+
+
+---
+
+## 📫 Onde me encontrar
+- 📧 Email: **paulo.jesus@sptech.school**  
+
+---
+
+> 🎵 _"A vida é a arte do encontro, embora haja tanto desencontro pela vida."_ — Vinicius de Moraes  
+> ⚽ _"Corinthians, minha vida, minha história, meu amor."_  
